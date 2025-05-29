@@ -88,15 +88,15 @@
         position: relative;
         z-index: 2;
     }
-    :global(.step-content {
+    :global(.step-content) {
         text-align: center;
-    })
+    }
 
-    :global(.bright-purple-01 {
+    :global(.bright-purple-01) {
         background-color: var(--brite_purple01);
         border-radius: 3px;
         color: #FFF;
         margin-top: 10px;
         padding: 2px;
-    })
+    }
 </style>
