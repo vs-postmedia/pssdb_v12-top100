@@ -4,7 +4,7 @@ import { svelte } from '@sveltejs/vite-plugin-svelte';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/flourish-scrollytelling-template/',
+  base: '/pssdb_v12-top100/',
   // base: process.env.MODE === 'production' ? '/09xx-tfwp-story/' : '/',
   plugins: [svelte()],
   resolve: {

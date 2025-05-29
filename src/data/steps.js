@@ -1,6 +1,7 @@
 export default [
-    '#1: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <span class="scroll-more">Scroll for more...</span>',
-    '#2: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-    '#3: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <span class="blue-01">tempor incididunt</span> ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud <span class="green-01">exercitation ullamco laboris</span> nisi ut aliquip ex ea commodo consequat.',
-    '#4: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    'Each of the 100 highest-paid public sector employees in earned neary $500,000 in 2023/24. <span class="scroll-more">Scroll for more...</span>',
+    '<span class="bright-purple-01">Only 26 were women</span>',
+    'Three organizations employed 87 of B.C.’s highest earners: UBC, Powerex and the Provincial Health Services agency. <br /><span class="bright-purple-01">Only 24 per cent were women</span>',
+    'Nine people earned over $1 million in 2023/24. <br /><span class="bright-purple-01">Only one was a women</span>',
+    'Women in the top 100 were most likely to reach top-paid positions at health authorities, a sector where women are over represented. Roughly XX per cent of B.C. health-care workers earning $75,000 or more are women, according to Postmedia’s data. <br /><span class="bright-purple-01">Only XX were women</span>'
 ];
