@@ -31,6 +31,7 @@
     .step:first-of-type {
         top: -50%;
         opacity: 1;
+        position: relative;
     }
     .step.active {
         opacity: 1;
